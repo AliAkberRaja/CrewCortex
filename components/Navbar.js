@@ -20,10 +20,10 @@ function Navbar() {
       <a class="nav-link" href="#Pricing">Pricing</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#Careers">Careers</a>
+      <a class="nav-link" href="#Careers">About us</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#FAQ">Help</a>
+      <a class="nav-link" href="#FAQ">Our Process</a>
     </li>
   </ul>
 </div>

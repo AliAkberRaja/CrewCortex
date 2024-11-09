@@ -5,11 +5,11 @@ function Career() {
   Container.innerHTML = `
     <div class="row row-cols-1 row-cols-md-2 gy-5 align-items-center">
     <div class="col text-body">
-      <h2 class="title fw-bold">Our Process</h2>
+      <h2 class="title fw-bold">Cross-Industry Experience</h2>
       <p class="mt-2">
-Our method is straightforward but efficient. We work directly with you to comprehend your particular demands, create solutions that are tailored to your needs, and execute them with ease. We guarantee that we improve and adapt our solutions to your changing business needs through our iterative process.
+Our staff has extensive experience in a variety of industries, including e-commerce, entertainment, healthcare, and finance. Because of our wide range of experience, we can modify and apply industry best practices to your project, guaranteeing creative solutions that are suited to your particular company requirements.
       </p>
-      <a class="button btn-theme-default mt-3" href="#"> Join Now </a>
+      <a class="button btn-theme-default mt-3" href="#"> Contact Now </a>
     </div>
     <div class="col container-body">
       <img

@@ -7,14 +7,14 @@ function Footer() {
           <div class="col-12 col-md-10 left-section ">
             <div class="brand-logo">
               <a class="navbar-brand" href="#">
-                <img class="BrandLogo" src="./Images/Logo-BgDark.svg" alt="" srcset="" />
+                <img class="BrandLogo" src="./Images/CCLogoWhite.svg" alt="" srcset="" />
               </a>
             </div>
             <div class="nav-links d-flex flex-column mt-4">
               <ul class="nav justify-content-left row-1">
                 <li class="nav-item">
                   <a class="nav-link active" aria-current="page" href="#"
-                    >Download Now</a
+                    >Contact Now</a
                   >
                 </li>
                 <li class="nav-item">
@@ -28,13 +28,13 @@ function Footer() {
                   >
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#Features">Features</a>
+                  <a class="nav-link" href="#Features">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#Pricing">Pricing</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">News</a>
+                  <a class="nav-link" href="#">Why Us?</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Contacts</a>
@@ -42,7 +42,7 @@ function Footer() {
               </ul>
             </div>
             <div class="copyrights mt-4">
-              © 2021 <a class='text-decoration-underline' href="https://github.com/SuccessfullSites">SuccessfullSite</a> Theme. All rights reserved
+              © 2021 <a class='text-decoration-underline' href="">CrewCortex</a> Theme. All rights reserved
             </div>
           </div>
           <div class="col-12 col-md-2 badges">

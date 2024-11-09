@@ -29,6 +29,7 @@ Global Settings
   --neutral-900: #111827;
   --white: #ffffff;
   --black: #000000;
+  --lavender: #b89cff;
   /* font style  */
   --fs-displayXL: 60px;
   --fs-displayLG: 48px;
@@ -204,6 +205,10 @@ Background Colour
 }
 .bg-neutral-50 {
   background-color: var(--neutral-50);
+}
+
+.bg-lavender {
+  background-color: var(--lavender);
 }
 /*** 
 

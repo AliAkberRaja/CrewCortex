@@ -10,26 +10,22 @@ function Testimonial() {
             <div class="quote-mark position-absolute">
               <img src="./Images/Quote mark.png" alt="" srcset="" />
             </div>
-            <h2 class="title fw-bold">Client Testimonials</h1>
-            <p>Hear from our happy customers who have used our automation solutions to completely change their businesses. Their accomplishments serve as a testament to both our dedication to quality work and the real advantages our services offer. Support the companies that, with our assistance, have grown remarkably.</p>
+            <h2 class="title fw-bold">Why Us?</h1>
+            <p>Our method is straightforward but efficient. We work directly with you to comprehend your particular demands, create solutions that are tailored to your needs, and execute them with ease. We guarantee that we improve and adapt our solutions to your changing business needs through our iterative process.</p>
           </div>
           <div class="col">
             <div class="testimonial-item bg-white rounded item-1">
               <div class="client-logo">
-                <img src="./Images/Client-logo-01.svg" alt="" srcset="" />
+                <img src="./Images/Base-feature-icon-2.svg" alt="" srcset="" />
               </div>
+              <span class="per-name fw-bold">Top Talent</span>
+              
               <div class="content mt-3">
                 <div class="feed-personalDetails">
                   <p class="feed">
-                    To quickly start my startup landing page design, I was
-                    looking for a landing page UI Kit. Landify is one of the
-                    best landing page UI kit I have come across. It’s so
-                    flexible, well organised and easily editable.
+                   To guarantee that you receive top-notch IT architecture, we collaborate with the most talented individuals in the industry. For every developer we hire, we screen at least 100 applicants. Our personnel stay with us for a long time once they are on boarded, so they are well-versed in the business and its procedures.
                   </p>
-                  <div class="personal-detail d-flex flex-column mt-3">
-                    <span class="per-name fw-bold"> Floyd Miles </span>
-                    <span class="per-role"> Vice President, GoPro </span>
-                  </div>
+                
                 </div>
               </div>
             </div>
@@ -37,35 +33,31 @@ function Testimonial() {
           <div class="col mt-4">
             <div class="testimonial-item bg-white rounded">
               <div class="client-logo">
-                <img src="./Images/Client-logo-02.svg" alt="" srcset="" />
+                <img src="./Images/Base-feature-icon-1.svg" alt="" srcset="" />
               </div>
+              <span class="per-name fw-bold">Proven Track Record</span>
+                   
               <div class="content mt-3">
                 <div class="feed-personalDetails">
                   <p class="feed">
-                    I used landify and created a landing page for my startup
-                    within a week. The Landify UI Kit is simple and highly
-                    intuitive, so anyone can use it.
+                   Our software, UX/UI, and product development teams have completed more than 20 successful projects, continuously transforming concepts into powerful digital solutions. Our knowledge and experience guarantee that your project will not only be finished but will surpass expectations, generating tangible benefits for your company.
                   </p>
-                  <div class="personal-detail d-flex flex-column mt-3">
-                    <span class="per-name fw-bold">Jane Cooper</span>
-                    <span class="per-role">CEO, Airbnb</span>
-                  </div>
+                 
                 </div>
               </div>
             </div>
             <div class="testimonial-item bg-white rounded mt-4">
               <div class="client-logo">
-                <img src="./Images/Client-logo-03.svg" alt="" srcset="" />
+                <img src="./Images/Base-feature-icon-6.svg" alt="" srcset="" />
               </div>
+              <span class="per-name fw-bold">Business Mindset</span>
+                   
               <div class="content mt-3">
                 <div class="feed-personalDetails">
                   <p class="feed">
-                    Landify saved our time in designing my company page.
+                    We have a corporate background and were also startup founders, so we have seen many of the challenges on both sides. We will constantly consider your product from a business perspective since we understand that great products are about more than just technology.
                   </p>
-                  <div class="personal-detail d-flex flex-column mt-3">
-                    <span class="per-name fw-bold">Kristin Watson</span>
-                    <span class="per-role">Co-Founder, Strapi</span>
-                  </div>
+                  
                 </div>
               </div>
             </div>
