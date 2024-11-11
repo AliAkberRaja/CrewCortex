@@ -1,3 +1,6 @@
+
+
+
 function Herosection() {
   const Herosection = document.getElementById("Herosection");
   const Container = document.createElement("div");
@@ -9,7 +12,7 @@ function Herosection() {
           <div class="text-wrapper col-12 col-lg-7">
             <div class="text-body">
               <h1 class=" fw-bold">
-                We Build Automations for Customer Support
+                We Build Automations for <span class="auto-type" style="color: #18a2ff;"></span>
               </h1>
               <p class="mt-3">
                 With our customized automation solutions, you can improve customer service. Our specialty is developing solutions that increase customer satisfaction and responsiveness. This frees up your support staff to concentrate on deeper conversations with clients while guaranteeing they get help when they need it.
@@ -38,4 +41,15 @@ function Herosection() {
   Herosection.appendChild(Container);
   Herosection.appendChild(BG);
 }
+
+
 Herosection();
+
+var typed = new Typed(".auto-type",{
+
+  strings : ["Customer Support", "Saas Company","Startups"],
+typeSpeed: 40,
+backSpeed: 30,
+loop: true,
+
+})
