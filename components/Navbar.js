@@ -14,16 +14,16 @@ function Navbar() {
   </a>
   <ul class="navbar-nav d-none d-lg-flex">
     <li class="nav-item">
+      <a class="nav-link" href="#Aboutus">About us</a>
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="#Services">Services</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#Pricing">Pricing</a>
+      <a class="nav-link" href="#Careers">Reviews</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#Careers">About us</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#FAQ">Our Process</a>
+      <a class="nav-link" href="#FAQ">Contact</a>
     </li>
   </ul>
 </div>
